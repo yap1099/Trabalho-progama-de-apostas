@@ -411,3 +411,4 @@ Console.WriteLine("jogo7:" + "    "+ n[6,0]+ "    " + "   " + n[6,1] + "   " +  
        
         Console.WriteLine(" Quantidade de pontos feitos = " + pontos);
   }
+}
