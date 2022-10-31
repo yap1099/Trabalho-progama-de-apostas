@@ -390,7 +390,7 @@ RecibimentodeApostas  [9] = Console.ReadLine();
           pontos = pontos + 1;
       }else Console.WriteLine(" "); 
 
-    Console.WriteLine(""); Console.WriteLine("      vitoria  empate  vitoria2 ") ;  
+    Console.WriteLine(""); Console.WriteLine("      vitoria1  empate  vitoria2 ") ;  
   Console.WriteLine("jogo1:" + "    "+ m[0,0]+ "    " + "   " + m[0,1] + "   " +  "   " + m[0,2]);
   Console.WriteLine("jogo2:" + "    "+ m[1,0]+ "    " + "   " + m[1,1] + "   " +  "   " + m[1,2]);
  Console.WriteLine("jogo3:" + "    "+ m[2,0]+ "    " + "   " + m[2,1] + "   " +  "   " + m[2,2]);     
