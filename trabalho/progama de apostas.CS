@@ -7,7 +7,7 @@ public class HelloWorld
         int[,] tabeladearesultado = new int [13,3]{{1,0,0},{0,1,0},{0,0,1},{1,0,0},{0,1,0},{0,0,1},{1,0,0},{0,1,0},{0,0,1},{1,0,0},{0,1,0},{0,0,1},{1,0,0}};
 int[,] tabeladeaposta = new int [13,3]; 
 int aposta;
-int pontos = 0;
+int pontos ;
 int linha=0, coluna=0;
 
 // lê as apostas do usuario por um looping e deziguina, na matriz da aposta, os locais de marcação com 1 e os locais sem marcação com 0 atraves de um if/else
